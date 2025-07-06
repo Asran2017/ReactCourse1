@@ -1,0 +1,1 @@
+Created a new branch thorugh terminal named sub-branch2
